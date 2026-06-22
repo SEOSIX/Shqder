@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C4A6725F-5278-489A-B9BF-C9932E80C116}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{C4A6725F-5278-489A-B9BF-C9932E80C116}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Sound" ID="{6D424599-BD37-4C39-86B4-E382F60A6409}">
+					<ChildrenList>
+						<Action Name="" ID="{EA21C968-0BE4-4D13-B43A-E684848AFD5D}" ShortID="139731390">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="23_ Waterfall Cave, Lanayru Cave" ID="{910C1C3C-E992-4644-BCF9-951CE5FEDFBD}" WorkUnitID="{36C46581-FDF0-4542-B1D1-B8BA10F09123}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

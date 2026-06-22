@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{36C46581-FDF0-4542-B1D1-B8BA10F09123}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Default Work Unit" ID="{36C46581-FDF0-4542-B1D1-B8BA10F09123}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="MUS_HorrorMusic_Freesound_org_ZHRØ" ID="{DDE6F2F2-CCBB-4BC1-86D8-51FA55A131A1}" ShortID="898610343">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2A79690B-D9A8-45AB-AFD2-70177A4A2B44}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{EDDA5FCF-D726-4641-8D5C-4D539260C38E}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MUS_HorrorMusic_Freesound_org_ZHRØ" ID="{753AAC00-B5F4-4883-9956-70AD5AEBBE56}">
+							<PropertyList>
+								<Property Name="FadeOutDuration" Type="Real64" Value="6.75887"/>
+								<Property Name="LoopEnd" Type="Real64" Value="201.26856"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="204.14756"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>MUS_HorrorMusic_Freesound.org_ZHRØ.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="401941179"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MUS_HorrorMusic_Freesound_org_ZHRØ" ID="{753AAC00-B5F4-4883-9956-70AD5AEBBE56}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="23_ Waterfall Cave, Lanayru Cave" ID="{910C1C3C-E992-4644-BCF9-951CE5FEDFBD}" ShortID="173816460">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2A79690B-D9A8-45AB-AFD2-70177A4A2B44}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{EDDA5FCF-D726-4641-8D5C-4D539260C38E}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="23. Waterfall Cave, Lanayru Cave_01" ID="{74275CF8-CF58-4FA7-8547-0D5F386F6DE2}">
+							<PropertyList>
+								<Property Name="LoopBegin" Type="Real64" Value="3.11714"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="71.20442"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>23. Waterfall Cave, Lanayru Cave_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="976329158"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="23. Waterfall Cave, Lanayru Cave_01" ID="{74275CF8-CF58-4FA7-8547-0D5F386F6DE2}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>

@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{F507D848-08A1-4224-A8A3-223541291CC8}",
+    "Language": "SFX",
+    "Hash": "{1702D2FD-90CA-CDC5-94AE-1136E01FA31B}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "976329158",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "23. Waterfall Cave, Lanayru Cave_01.wav",
+      "CachePath": "7D/{7D104C73-EE09-95B6-F9EA-E8C58BBD4691}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "623086306",
+      "Name": "Sound",
+      "ObjectPath": "\\Events\\Default Work Unit\\Sound",
+      "GUID": "{6D424599-BD37-4C39-86B4-E382F60A6409}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "976329158"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{348AAC0C-C646-273D-533C-507E446758DE}"
+ }
+}

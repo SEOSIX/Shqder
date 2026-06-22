@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	623086306	Sound			\Default Work Unit\Sound	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	976329158	23_ Waterfall Cave, Lanayru Cave	.cache\7D\{7D104C73-EE09-95B6-F9EA-E8C58BBD4691}.wem		\Containers\Default Work Unit\23_ Waterfall Cave, Lanayru Cave		9114308
+
